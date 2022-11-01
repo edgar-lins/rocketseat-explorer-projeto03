@@ -4,6 +4,8 @@
 
 Projeto realizado no curso Explorer da rocketseat
 
+* Criando o primeiro formulário
+
 ![preview](./.github/preview.png)
 
 
